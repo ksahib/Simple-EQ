@@ -6,4 +6,4 @@
 
 
 
-A simple vst3 plugin built with the JUCE framework. The audio processed in this demo is given in the Sample Audio folder.
+A simple vst3 plugin built with JUCE framework. The audio processed in this demo is given in the Sample Audio folder.
